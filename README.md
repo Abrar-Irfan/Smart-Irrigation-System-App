@@ -1,6 +1,9 @@
 
 Smart Irrigation System
+
+
 Overview
+
 This project is aimed at creating a smart irrigation system that optimizes water usage for your garden or farm. By utilizing sensors, microcontrollers, and automation, this system ensures that plants receive the right amount of water at the right time, leading to improved plant health and water conservation.
 
 Features
